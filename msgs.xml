@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ALLMESSAGES>
+  <MAIL>
+    <FROM>email@email.com</FROM>
+    <TO>recipient@email.com</TO>
+    <TO>yes@email.com</TO>
+    <TO>yes2@email.com</TO>
+    <TXT>[Date: Fri Dec 30 22:31:21 EET 2022
+Sender: email@email.com
+Recipient: [recipient@email.com, yes@email.com, yes2@email.com]
+Subject: Subjective..
+]</TXT>
+  </MAIL>
+</ALLMESSAGES>
